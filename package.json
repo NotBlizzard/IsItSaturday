@@ -1,0 +1,19 @@
+{
+  "name": "isitsaturday",
+  "version": "1.0.0",
+  "description": "Well, is it?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notblizzard/isitsaturday.git"
+  },
+  "author": "Anthony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notblizzard/isitsaturday/issues"
+  },
+  "homepage": "https://github.com/notblizzard/isitsaturday#readme"
+}
